@@ -1,0 +1,153 @@
+
+    #button1 {
+
+        width: 100px;
+
+        height: 30px;
+
+        font-size: 12px;
+
+        font-family: ΢���ź�;
+
+        letter-spacing: 1px;
+
+        padding-left: 12px;
+
+        border-radius: 5px;
+
+        background: -webkit-linear-gradient(top, #66B5E6, #2e88c0);
+
+        background: -moz-linear-gradient(top, #66B5E6, #2e88c0);
+
+        background: linear-gradient(top, #66B5E6, #2e88c0);
+
+        background: -ms-linear-gradient(top, #66B5E6, #2e88c0);
+
+        border: 1px solid #2576A8;
+
+        box-shadow: 0 1px 2px #B8DCF1 inset, 0 -1px 0 #316F96 inset;
+
+        color: #fff;
+
+        text-shadow: 1px 1px 0.5px #22629B;
+
+    }
+    #button2 {
+
+            width: 200px;
+
+            height: 30px;
+
+            font-size: 12px;
+
+            font-family: ΢���ź�;
+
+            letter-spacing: 1px;
+
+            padding-left: 12px;
+
+            border-radius: 5px;
+
+            background: -webkit-linear-gradient(top, #66B5E6, #2e88c0);
+
+            background: -moz-linear-gradient(top, #66B5E6, #2e88c0);
+
+            background: linear-gradient(top, #66B5E6, #2e88c0);
+
+            background: -ms-linear-gradient(top, #66B5E6, #2e88c0);
+
+            border: 1px solid #2576A8;
+
+            box-shadow: 0 1px 2px #B8DCF1 inset, 0 -1px 0 #316F96 inset;
+
+            color: #fff;
+
+            text-shadow: 1px 1px 0.5px #22629B;
+
+        }
+
+    #press {
+    	 color: transparent;
+    	 background-color : black;
+    	 text-shadow : rgba(255,255,255,0.5) 0 5px 6px, rgba(255,255,255,0.2) 1px 3px 3px;
+    	 -webkit-background-clip : text;
+    }
+    #abody {
+    font: normal 11px auto "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    color: #4f6b72;
+    background: #E6EAE9;
+    }
+
+    a {
+    color: #c75f3e;
+    }
+
+    #mytable {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    }
+
+    caption {
+    padding: 0 0 5px 0;
+    width: 700px;
+    font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    text-align: right;
+    }
+
+    th {
+    font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    color: #4f6b72;
+    border-right: 1px solid #C1DAD7;
+    border-bottom: 1px solid #C1DAD7;
+    border-top: 1px solid #C1DAD7;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 6px 6px 6px 12px;
+    background: #CAE8EA  no-repeat;
+    }
+    /*power by www.winshell.cn*/
+    th.nobg {
+    border-top: 0;
+    border-left: 0;
+    border-right: 1px solid #C1DAD7;
+    background: none;
+    }
+
+    td {
+    border-right: 1px solid #C1DAD7;
+    border-bottom: 1px solid #C1DAD7;
+    background: #fff;
+    font-size:11px;
+    padding: 6px 6px 6px 12px;
+    color: #4f6b72;
+    }
+    /*power by www.winshell.cn*/
+
+    td.alt {
+    background: #F5FAFA;
+    color: #797268;
+    }
+
+    th.spec {
+    border-left: 1px solid #C1DAD7;
+    border-top: 0;
+    background: #fff no-repeat;
+    font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    }
+
+    th.specalt {
+    border-left: 1px solid #C1DAD7;
+    border-top: 0;
+    background: #f5fafa no-repeat;
+    font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    color: #797268;
+    }
+    /*---------for IE 5.x bug*/
+
+    td,th {
+    font-family: ����, Arial;
+    font-size: 15px;
+    text-align: center;
+    }
